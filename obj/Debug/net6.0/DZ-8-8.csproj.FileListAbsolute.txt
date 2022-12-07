@@ -1,0 +1,15 @@
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\bin\Debug\net6.0\DZ-8-8.exe
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\bin\Debug\net6.0\DZ-8-8.deps.json
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\bin\Debug\net6.0\DZ-8-8.runtimeconfig.json
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\bin\Debug\net6.0\DZ-8-8.dll
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\bin\Debug\net6.0\DZ-8-8.pdb
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\DZ-8-8.csproj.AssemblyReference.cache
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\DZ-8-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\DZ-8-8.AssemblyInfoInputs.cache
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\DZ-8-8.AssemblyInfo.cs
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\DZ-8-8.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\DZ-8-8.dll
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\refint\DZ-8-8.dll
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\DZ-8-8.pdb
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\DZ-8-8.genruntimeconfig.cache
+C:\Users\dns\Desktop\DZ-5\DZ-7\DZ-8-8\obj\Debug\net6.0\ref\DZ-8-8.dll
